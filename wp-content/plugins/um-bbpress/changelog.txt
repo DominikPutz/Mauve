@@ -1,0 +1,64 @@
+Version 2.0.6
+
+* Added: Ability to rewrite templates via themes
+* Fixed: Profile Tabs
+* Fixed: Uninstall process
+
+Version 2.0.5
+
+* Optimized: CSS enqueue
+
+Version 2.0.4
+
+ * Fixed: Showing topic title for topic and forum title for forum
+
+ Version 2.0.3
+
+ * Fixed: AJAX actions handlers
+
+Version 2.0.2
+
+ * Fixed: User's profile URL on Forum's Replies
+
+Version 2.0.1
+
+ * Fixed: The calculation of all subscriptions
+ * Tweak: compatibility with UM2.0 core
+
+Version 1.1.7
+
+* Fixed: remove notices
+* Fixed: topics & replies permission settings
+
+Version 1.1.6
+
+* Added: Finnish language
+* Fixed: access restrictions & visibility settings
+* Fixed: remove notices
+* Fixed: License and updater
+* Fixed: translation strings
+
+Version 1.1.5
+
+* New: Add sort subscriptions
+* New: Show subscribed forums
+
+Version 1.1.4
+
+* Fixed: Hide notices for guests
+
+Version 1.1.3
+
+* New: added support for custom bbpress templates
+
+Version 1.1.2
+
+* Fixed: PHP warning
+
+Version 1.1.1
+
+* Fixed: forum tabs were not showing any content on specific installations
+
+Version 1.1.0
+
+* New: added option to hide forums tab from guests

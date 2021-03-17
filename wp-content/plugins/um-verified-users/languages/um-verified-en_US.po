@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - Verified Users\n"
+"POT-Creation-Date: 2019-11-10 23:39+0200\n"
+"PO-Revision-Date: 2019-11-10 23:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: um-verified-users.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/templates/role/verified.php:11
+msgid "Users with this role will automatically have a verified account"
+msgstr ""
+
+#: includes/admin/templates/role/verified.php:14
+#: includes/admin/templates/role/verified.php:24
+#: includes/core/um-verified-users-filters.php:238
+msgid "No"
+msgstr ""
+
+#: includes/admin/templates/role/verified.php:15
+#: includes/admin/templates/role/verified.php:25
+#: includes/core/um-verified-users-filters.php:239
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/templates/role/verified.php:21
+msgid "Prevent users with this role from requesting verification?"
+msgstr ""
+
+#: includes/core/class-verified-users-main-api.php:173
+#: includes/core/um-verified-users-filters.php:282
+msgid "Verified Account"
+msgstr ""
+
+#: includes/core/class-verified-users-member-directory.php:65
+msgid "Only show members who have verified their profile"
+msgstr ""
+
+#: includes/core/class-verified-users-member-directory.php:82
+msgid "Verified accounts first"
+msgstr ""
+
+#: includes/core/class-verified-users-member-directory.php:83
+msgid "Not verified accounts first"
+msgstr ""
+
+#: includes/core/class-verified-users-setup.php:42
+#: includes/core/um-verified-users-filters.php:193
+msgid "User account is verified"
+msgstr ""
+
+#: includes/core/class-verified-users-setup.php:44
+#: includes/core/um-verified-users-filters.php:195
+msgid "When my account gets verified"
+msgstr ""
+
+#: includes/core/um-verified-users-actions.php:186
+#: includes/core/um-verified-users-actions.php:214
+msgid "Unauthorized."
+msgstr ""
+
+#: includes/core/um-verified-users-actions.php:191
+msgid "You are not allowed to do this action."
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:13
+msgid "Mark accounts as verified"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:14
+msgid "Mark accounts as unverified"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:30
+msgid "Verified Users License Key"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:38
+msgid "Verified Users"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:43
+msgid "Content Lock Redirect"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:44
+msgid ""
+"Unverified users who access verified areas will be redirected to that URL."
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:69
+msgid "Verify"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:71
+msgid "Approve verification request"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:72
+msgid "Reject verification"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:74
+msgid "Unverify"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:141
+msgid "Account Verifications"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:178
+#: templates/account_info.php:21 templates/profile_info.php:15
+msgid "Request Verification"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:233
+msgid "Verify user account"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:234
+msgid "Verify the user's account when he/she completes his/her profile."
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:277
+msgid "Account Verification"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:281
+msgid "Unverified Account"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:309
+#: includes/core/um-verified-users-filters.php:335
+#: includes/core/um-verified-users-filters.php:344
+msgid "Lock content to verified accounts only?"
+msgstr ""
+
+#: includes/core/um-verified-users-filters.php:384
+msgid "Verified Accounts"
+msgstr ""
+
+#: includes/core/um-verified-users-init.php:138
+msgid "Account is verified E-mail"
+msgstr ""
+
+#: includes/core/um-verified-users-init.php:146
+msgid "Send a notification to user when his account is verified"
+msgstr ""
+
+#: includes/core/um-verified-users-init.php:153
+msgid "Verification Request  E-mail"
+msgstr ""
+
+#: includes/core/um-verified-users-init.php:162
+msgid ""
+"Send a notification e-mail to admin when a user requests to have their "
+"account verified."
+msgstr ""
+
+#: templates/account_info.php:15
+msgid "Get Verified"
+msgstr ""
+
+#: templates/account_info.php:25 templates/profile_info.php:19
+#, php-format
+msgid ""
+"Your verification request is currently pending. <a href=\"%s\" class=\"um-"
+"verified-cancel-request\">Cancel request?</a>"
+msgstr ""
+
+#: um-verified-users.php:43 um-verified-users.php:59
+#, php-format
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Member - Verified Users"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://ultimatemember.com/extensions/verified-users"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allow users to get verified and have a verification badge next to their name"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ultimate Member"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://ultimatemember.com/"
+msgstr ""

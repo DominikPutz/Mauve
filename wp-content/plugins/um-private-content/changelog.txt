@@ -1,0 +1,23 @@
+Version 2.0.4
+
+* Fixed: Profile Tabs
+* Fixed: Uninstall process
+* Fixed: Issue with break lines filter
+
+Version 2.0.3
+
+* Fixed: AJAX vulnerabilities
+* Optimized: JS/CSS enqueue
+
+Version 2.0.2
+
+* Fixed: Uninstall process
+
+Version 2.0.1
+
+* Added: Loading translation from "wp-content/languages/plugins/" directory
+* Fixed: Private Content shortcode
+
+Version 2.0
+
+* Tweak: UM2.0 compatibility

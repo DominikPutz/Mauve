@@ -1,0 +1,585 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - User Reviews\n"
+"POT-Creation-Date: 2019-11-10 23:15+0200\n"
+"PO-Revision-Date: 2019-11-10 23:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: um-reviews.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/templates/review.php:9
+#: includes/core/class-reviews-admin.php:298
+#: includes/core/class-reviews-admin.php:336
+#: includes/core/class-reviews-admin.php:379
+msgid "Flagged"
+msgstr ""
+
+#: includes/admin/templates/review.php:10
+msgid "This review has been flagged. Change the status below."
+msgstr ""
+
+#: includes/admin/templates/review.php:13
+msgid "Reviewed"
+msgstr ""
+
+#: includes/admin/templates/review.php:14
+msgid "Under Review"
+msgstr ""
+
+#: includes/admin/templates/review.php:22
+#: includes/core/class-reviews-admin.php:333
+msgid "From"
+msgstr ""
+
+#: includes/admin/templates/review.php:29
+#: includes/core/class-reviews-admin.php:334
+msgid "To"
+msgstr ""
+
+#: includes/admin/templates/review.php:36
+#: includes/core/class-reviews-admin.php:335
+#: includes/core/class-reviews-member-directory.php:164
+msgid "Rating"
+msgstr ""
+
+#: includes/admin/templates/review.php:43
+#: includes/core/class-reviews-admin.php:338
+msgid "Status"
+msgstr ""
+
+#: includes/admin/templates/review.php:46
+#: includes/core/class-reviews-admin.php:299
+#: includes/core/class-reviews-admin.php:386
+msgid "Pending"
+msgstr ""
+
+#: includes/admin/templates/review.php:47
+#: includes/core/class-reviews-admin.php:297
+#: includes/core/class-reviews-admin.php:337
+#: includes/core/class-reviews-admin.php:387
+msgid "Approved"
+msgstr ""
+
+#: includes/admin/templates/role/reviews.php:12
+msgid "Can have user reviews tab?"
+msgstr ""
+
+#: includes/admin/templates/role/reviews.php:13
+msgid "If this is turned off user reviews will be disabled for this role."
+msgstr ""
+
+#: includes/admin/templates/role/reviews.php:19
+msgid "Can review other members?"
+msgstr ""
+
+#: includes/admin/templates/role/reviews.php:20
+msgid "Decide If this role can review other members"
+msgstr ""
+
+#: includes/admin/templates/role/reviews.php:27
+msgid "Can review these roles only"
+msgstr ""
+
+#: includes/admin/templates/role/reviews.php:28
+msgid ""
+"Which roles that role can review, choose none to allow role to review all "
+"member roles"
+msgstr ""
+
+#: includes/admin/templates/role/reviews.php:36
+msgid "Automatically publish reviews from this role?"
+msgstr ""
+
+#: includes/admin/templates/role/reviews.php:37
+msgid "If turned off, reviews from this role will be pending admin review."
+msgstr ""
+
+#: includes/admin/templates/role/reviews.php:43
+msgid "Can edit/remove their own reviews?"
+msgstr ""
+
+#: includes/admin/templates/role/reviews.php:44
+msgid ""
+"If this is turned on user can edit and remove own reviews for other members."
+msgstr ""
+
+#: includes/admin/templates/role/reviews.php:50
+msgid "Can edit/remove other reviews?"
+msgstr ""
+
+#: includes/admin/templates/role/reviews.php:51
+msgid "If this is turned on user can edit and remove any reviews."
+msgstr ""
+
+#: includes/core/actions/um-reviews-admin.php:25
+#: includes/core/class-reviews-admin.php:49
+#: includes/core/class-reviews-admin.php:50
+#: includes/core/um-reviews-init.php:183
+msgid "User Reviews"
+msgstr ""
+
+#: includes/core/class-reviews-admin.php:100
+msgid "This Review"
+msgstr ""
+
+#: includes/core/class-reviews-admin.php:133
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/core/class-reviews-admin.php:182
+msgid "Select \"From\""
+msgstr ""
+
+#: includes/core/class-reviews-admin.php:189
+msgid "Select \"To\""
+msgstr ""
+
+#: includes/core/class-reviews-admin.php:198
+msgid "Select \"Rating\""
+msgstr ""
+
+#: includes/core/class-reviews-admin.php:296
+msgid "All"
+msgstr ""
+
+#: includes/core/class-reviews-admin.php:339
+msgid "Date"
+msgstr ""
+
+#: includes/core/class-reviews-admin.php:389
+msgid "Unknown"
+msgstr ""
+
+#: includes/core/class-reviews-admin.php:412
+#: includes/core/class-reviews-admin.php:415
+#: includes/core/filters/um-reviews-fields.php:15
+#: includes/core/filters/um-reviews-fields.php:18
+#: templates/review-overview.php:18
+msgid "User Rating"
+msgstr ""
+
+#: includes/core/class-reviews-enqueue.php:32
+#: includes/core/class-reviews-main-api.php:729
+msgid "Please add a rating."
+msgstr ""
+
+#: includes/core/class-reviews-enqueue.php:33
+#: includes/core/class-reviews-main-api.php:733
+msgid "You must provide a title."
+msgstr ""
+
+#: includes/core/class-reviews-enqueue.php:34
+#: includes/core/class-reviews-main-api.php:737
+msgid "You must provide review content."
+msgstr ""
+
+#: includes/core/class-reviews-enqueue.php:35
+#: templates/reply-front-actions.php:25 templates/review-front-actions.php:39
+msgid "Remove"
+msgstr ""
+
+#: includes/core/class-reviews-enqueue.php:36
+msgid "Cancel"
+msgstr ""
+
+#: includes/core/class-reviews-enqueue.php:37
+msgid "Star"
+msgstr ""
+
+#: includes/core/class-reviews-main-api.php:505
+#, php-format
+msgid "%s average based on %s review."
+msgid_plural "%s average based on %s reviews."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/core/class-reviews-main-api.php:508
+msgid "Nobody has reviewed you yet."
+msgstr ""
+
+#: includes/core/class-reviews-main-api.php:510
+msgid "Nobody has reviewed this user yet."
+msgstr ""
+
+#: includes/core/class-reviews-main-api.php:614
+#, php-format
+msgid "%s Star"
+msgstr ""
+
+#: includes/core/class-reviews-main-api.php:720
+msgid "Invalid request"
+msgstr ""
+
+#: includes/core/class-reviews-main-api.php:725
+msgid "You can not rate this user."
+msgstr ""
+
+#: includes/core/class-reviews-main-api.php:756
+msgid "Can not edit. This review was removed."
+msgstr ""
+
+#: includes/core/class-reviews-main-api.php:772
+#: includes/core/class-reviews-main-api.php:795 templates/review-edit.php:52
+msgid "This review will be moderated by an admin before it is live."
+msgstr ""
+
+#: includes/core/class-reviews-main-api.php:815
+#, php-format
+msgid "%s star"
+msgstr ""
+
+#: includes/core/class-reviews-main-api.php:873
+msgid "This review has been flagged for admin review"
+msgstr ""
+
+#: includes/core/class-reviews-main-api.php:892
+msgid "Invalid nonce"
+msgstr ""
+
+#: includes/core/class-reviews-main-api.php:896
+msgid "Reply content is required."
+msgstr ""
+
+#: includes/core/class-reviews-main-api.php:919
+msgid "Wrong reply update process."
+msgstr ""
+
+#: includes/core/class-reviews-main-api.php:922
+msgid "Reply updated"
+msgstr ""
+
+#: includes/core/class-reviews-member-directory.php:62
+msgid "Hide rating stars"
+msgstr ""
+
+#: includes/core/class-reviews-member-directory.php:123
+msgid "Highest rated first"
+msgstr ""
+
+#: includes/core/class-reviews-member-directory.php:124
+msgid "Lowest rated first"
+msgstr ""
+
+#: includes/core/class-reviews-member-directory.php:136
+msgid "User rating"
+msgstr ""
+
+#: includes/core/class-reviews-member-directory.php:164
+msgid " stars"
+msgstr ""
+
+#: includes/core/class-reviews-setup.php:43
+#: includes/core/filters/um-reviews-settings.php:121
+msgid "New user review"
+msgstr ""
+
+#: includes/core/class-reviews-setup.php:44
+#: includes/core/filters/um-reviews-settings.php:122
+msgid ""
+"<strong>{member}</strong> has left you a new review. <span class=\"b1\">"
+"\"{review_excerpt}\"</span>"
+msgstr ""
+
+#: includes/core/class-reviews-setup.php:45
+#: includes/core/filters/um-reviews-settings.php:123
+msgid "When someone leaves me a review"
+msgstr ""
+
+#: includes/core/filters/um-reviews-permissions.php:23
+msgid "Block reviews"
+msgstr ""
+
+#: includes/core/filters/um-reviews-permissions.php:25
+msgid "Unblock reviews"
+msgstr ""
+
+#: includes/core/filters/um-reviews-settings.php:15
+msgid "Reviews License Key"
+msgstr ""
+
+#: includes/core/filters/um-reviews-settings.php:23
+#: includes/core/filters/um-reviews-tabs.php:14
+msgid "Reviews"
+msgstr ""
+
+#: includes/core/filters/um-reviews-settings.php:28
+msgid "Show user rating in members directory"
+msgstr ""
+
+#: includes/core/filters/um-reviews-settings.php:33
+msgid "Review date format"
+msgstr ""
+
+#: includes/core/filters/um-reviews-settings.php:45
+msgid "Who can flag reviews"
+msgstr ""
+
+#: includes/core/filters/um-reviews-settings.php:47
+msgid "Everyone"
+msgstr ""
+
+#: includes/core/filters/um-reviews-settings.php:48
+msgid "Reviewed user only"
+msgstr ""
+
+#: includes/core/filters/um-reviews-settings.php:49
+msgid "All Logged-in Users"
+msgstr ""
+
+#: includes/core/filters/um-reviews-settings.php:51
+msgid "Select..."
+msgstr ""
+
+#: includes/core/filters/um-reviews-settings.php:57
+msgid "Enable review reply"
+msgstr ""
+
+#: includes/core/filters/um-reviews-settings.php:77
+msgid "Reviews - New Review Notification"
+msgstr ""
+
+#: includes/core/filters/um-reviews-settings.php:85
+msgid "Send a notification to user when he receives a new review"
+msgstr ""
+
+#: includes/core/filters/um-reviews-settings.php:92
+msgid "Reviews - New Reply Notification"
+msgstr ""
+
+#: includes/core/filters/um-reviews-settings.php:102
+msgid "Send a notification to reviewer when user reply for received review"
+msgstr ""
+
+#: includes/core/um-reviews-init.php:184
+msgid "Review"
+msgstr ""
+
+#: includes/core/um-reviews-init.php:185 includes/core/um-reviews-init.php:186
+msgid "Add New Review"
+msgstr ""
+
+#: includes/core/um-reviews-init.php:187
+msgid "Edit Review"
+msgstr ""
+
+#: includes/core/um-reviews-init.php:188
+msgid "No user reviews have been submitted yet"
+msgstr ""
+
+#: includes/core/um-reviews-init.php:189
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: includes/core/um-reviews-init.php:190
+msgid "Search Reviews"
+msgstr ""
+
+#: includes/core/um-reviews-widget.php:21
+msgid "Ultimate Member - Lowest Rated"
+msgstr ""
+
+#: includes/core/um-reviews-widget.php:25
+msgid "Shows your lowest rated users in a widget"
+msgstr ""
+
+#: includes/core/um-reviews-widget.php:65
+msgid "Lowest Rated Users"
+msgstr ""
+
+#: includes/core/um-reviews-widget.php:84
+#: includes/core/um-reviews-widget.php:204
+#: includes/core/um-reviews-widget.php:324
+msgid "Title:"
+msgstr ""
+
+#: includes/core/um-reviews-widget.php:89
+#: includes/core/um-reviews-widget.php:209
+#: includes/core/um-reviews-widget.php:329
+msgid "Number of users:"
+msgstr ""
+
+#: includes/core/um-reviews-widget.php:94
+#: includes/core/um-reviews-widget.php:214
+#: includes/core/um-reviews-widget.php:334
+msgid "Limit to community role:"
+msgstr ""
+
+#: includes/core/um-reviews-widget.php:96
+#: includes/core/um-reviews-widget.php:216
+#: includes/core/um-reviews-widget.php:336
+msgid "All roles"
+msgstr ""
+
+#: includes/core/um-reviews-widget.php:143
+msgid "Ultimate Member - Most Rated"
+msgstr ""
+
+#: includes/core/um-reviews-widget.php:146
+msgid "Shows your most rated users in a widget"
+msgstr ""
+
+#: includes/core/um-reviews-widget.php:185
+msgid "Most Rated Users"
+msgstr ""
+
+#: includes/core/um-reviews-widget.php:263
+msgid "Ultimate Member - Top Rated"
+msgstr ""
+
+#: includes/core/um-reviews-widget.php:266
+msgid "Shows your top rated users in a widget"
+msgstr ""
+
+#: includes/core/um-reviews-widget.php:305
+msgid "Top Rated Users"
+msgstr ""
+
+#: templates/reply-add.php:23 templates/reply-edit.php:21
+#: templates/reply-list.php:26 templates/review-add.php:29
+#: templates/review-add.php:53 templates/review-edit.php:43
+#: templates/review-edit.php:77 templates/review-list.php:37
+#: templates/review-list.php:56
+#, php-format
+msgid "by <a href=\"%s\">%s</a>, %s"
+msgstr ""
+
+#: templates/reply-add.php:27 templates/reply-edit.php:25
+msgid "Enter your reply..."
+msgstr ""
+
+#: templates/reply-add.php:33 templates/review-front-actions.php:16
+msgid "Reply"
+msgstr ""
+
+#: templates/reply-edit.php:31
+msgid "Save Reply"
+msgstr ""
+
+#: templates/reply-front-actions.php:20 templates/review-front-actions.php:29
+#: templates/review-front-actions.php:33
+msgid "Edit"
+msgstr ""
+
+#: templates/reply-front-actions.php:24
+msgid "Are you sure you want to remove this reply?"
+msgstr ""
+
+#: templates/review-add.php:20
+msgid "Write a review for this user"
+msgstr ""
+
+#: templates/review-add.php:49 templates/review-edit.php:74
+#: templates/review-list.php:54
+msgid "Enter subject..."
+msgstr ""
+
+#: templates/review-add.php:57 templates/review-edit.php:80
+#: templates/review-list.php:59
+msgid "Enter your review..."
+msgstr ""
+
+#: templates/review-add.php:68
+msgid "Submit Review"
+msgstr ""
+
+#: templates/review-add.php:87
+#, php-format
+msgid ""
+"You are not logged in. Please <a href=\"%s\">login</a> to review this user."
+msgstr ""
+
+#: templates/review-detail.php:17
+#, php-format
+msgid "%s reviews (%s)"
+msgstr ""
+
+#: templates/review-edit.php:48 templates/review-list.php:40
+msgid "This is currently being reviewed by an admin"
+msgstr ""
+
+#: templates/review-edit.php:94 templates/review-list.php:74
+msgid "Save Review"
+msgstr ""
+
+#: templates/review-front-actions.php:23
+msgid "Report"
+msgstr ""
+
+#: templates/review-front-actions.php:39
+msgid "Are you sure you want to remove this review?"
+msgstr ""
+
+#: templates/review-my.php:14 templates/review-none.php:14
+msgid "You have not received any reviews yet."
+msgstr ""
+
+#: templates/review-my.php:14
+msgid "This user did not receive any other reviews."
+msgstr ""
+
+#: templates/review-none.php:14
+msgid "This user did not receive any reviews yet."
+msgstr ""
+
+#: templates/review-overview.php:16
+msgid "Your Rating"
+msgstr ""
+
+#: templates/review-overview.php:31
+#, php-format
+msgid ""
+"(You are viewing only %s star reviews. <a href=\"%s\">View all reviews</a>)"
+msgstr ""
+
+#: templates/reviews-widget.php:42
+#, php-format
+msgid "%s average based on %s review"
+msgstr ""
+
+#: templates/reviews-widget.php:44
+#, php-format
+msgid "%s average based on %s reviews"
+msgstr ""
+
+#: um-reviews.php:43 um-reviews.php:59
+#, php-format
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Member - User Reviews"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://ultimatemember.com/extensions/user-reviews"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Let users give reviews to each other and filter your members based on rating."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ultimate Member"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://ultimatemember.com/"
+msgstr ""

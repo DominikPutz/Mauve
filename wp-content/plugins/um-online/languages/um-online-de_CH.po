@@ -1,0 +1,121 @@
+# Translation of Plugins - Ultimate Member &#8211; Online Users - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Ultimate Member &#8211; Online Users - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-08 22:48+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+"Language: de_CH\n"
+"Project-Id-Version: Plugins - Ultimate Member &#8211; Online Users - Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: includes/core/class-online-member-directory.php:106
+msgid "Offline"
+msgstr "Offline"
+
+#: includes/core/class-online-member-directory.php:60
+msgid "Hide online stats"
+msgstr "Online-Statistiken ausblenden"
+
+#: includes/core/class-online-common.php:59
+msgid "Show online stats in member directory"
+msgstr "Online-Statistiken im Mitgliederverzeichnis anzeigen"
+
+#: includes/core/class-online-common.php:54
+#: includes/core/class-online-member-directory.php:107
+#: includes/core/class-online-member-directory.php:224
+msgid "Online"
+msgstr "Online"
+
+#: um-online.php:50 um-online.php:66
+msgid "The <strong>%s</strong> extension requires the Ultimate Member plugin to be activated to work properly. You can download it <a href=\"https://wordpress.org/plugins/ultimate-member\">here</a>"
+msgstr "Das <strong>%s</strong> Erweiterung erfordert, dass das Ultimate Member Plugin aktiviert ist, damit es ordnungsgemäß funktioniert. Sie können es hier herunterladen <a href=\"https://wordpress.org/plugins/ultimate-member\"></a>"
+
+#: includes/core/class-online-common.php:150
+#: includes/core/class-online-common.php:153
+#: includes/core/class-online-member-directory.php:77
+msgid "Online Status"
+msgstr "Online-Status"
+
+#: includes/core/class-online-common.php:143
+msgid "No"
+msgstr "Nein"
+
+#: includes/core/class-online-common.php:143
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/core/class-online-common.php:138
+msgid "Do you want other people to see that you are online?"
+msgstr "Wollen Sie, dass andere Leute sehen, dass Sie online sind?"
+
+#: includes/core/class-online-common.php:134
+#: includes/core/class-online-common.php:137
+msgid "Show my online status?"
+msgstr "Meinen Online-Status anzeigen?"
+
+#: includes/core/um-online-widget.php:89
+msgid "All roles"
+msgstr "Alle Benutzerrollen"
+
+#: includes/core/um-online-widget.php:87
+msgid "Show specific community role?"
+msgstr "Spezifische Community-Rolle zeigen?"
+
+#: includes/core/um-online-widget.php:82
+msgid "Maximum number of users in first view:"
+msgstr "Maximale Anzahl von Benutzern in der ersten Ansicht:"
+
+#: includes/core/um-online-widget.php:77
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/core/um-online-widget.php:58
+msgid "Who is Online"
+msgstr "Wer ist Online"
+
+#: includes/core/um-online-widget.php:18
+msgid "Shows your online users."
+msgstr "Zeigt Deine Online-Benutzer."
+
+#: includes/core/um-online-widget.php:16
+msgid "Ultimate Member - Online Users"
+msgstr "Ultimate Member - Online Users"
+
+#: templates/online-text.php:4 templates/online-marker.php:4
+msgid "offline"
+msgstr "offline"
+
+#: templates/online-text.php:4 templates/online-marker.php:4
+msgid "online"
+msgstr "online"
+
+#: templates/nobody.php:15
+msgid "No one is online right now"
+msgstr "Niemand ist jetzt gerade online"
+
+#. Author URI of the plugin
+msgid "http://ultimatemember.com/"
+msgstr "http://ultimatemember.com/"
+
+#. Author of the plugin
+msgid "Ultimate Member"
+msgstr "Ultimate Member"
+
+#. Description of the plugin
+msgid "Display online users and show the user online status on your site."
+msgstr "Zeigen Sie Online-Benutzer an und zeigen Sie den Online-Status des Benutzers auf Ihrer Website an."
+
+#. Plugin URI of the plugin
+msgid "https://ultimatemember.com/extensions/online-users/"
+msgstr "https://ultimatemember.com/extensions/online-users/"
+
+#. Plugin Name of the plugin
+msgid "Ultimate Member - Online"
+msgstr "Ultimate Member - Online"
+

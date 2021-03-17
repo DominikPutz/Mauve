@@ -1,0 +1,17 @@
+{
+    "name": "z0040kue/test-plugin",
+    "description": "This is just a Test Plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Putz Dominik z0040kue",
+            "email": "dominik.putz@siemens.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}

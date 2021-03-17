@@ -1,0 +1,589 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - WooCommerce\n"
+"POT-Creation-Date: 2019-11-10 23:42+0200\n"
+"PO-Revision-Date: 2019-11-10 23:42+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: um-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/core/class-admin.php:41
+msgid "Woocommerce License Key"
+msgstr ""
+
+#: includes/admin/core/class-admin.php:49
+msgid "Woocommerce"
+msgstr ""
+
+#: includes/admin/core/class-admin.php:54
+msgid "Remove previous roles when change role on complete or refund payment"
+msgstr ""
+
+#: includes/admin/core/class-admin.php:55
+msgid ""
+"If yes then remove all users roles and add current, else add current role to "
+"other roles, which user already has"
+msgstr ""
+
+#: includes/admin/core/class-admin.php:56
+#: includes/admin/core/class-admin.php:82
+msgid "No"
+msgstr ""
+
+#: includes/admin/core/class-admin.php:56
+#: includes/admin/core/class-admin.php:82
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/core/class-admin.php:62
+msgid "Assign this role to users when payment is completed"
+msgstr ""
+
+#: includes/admin/core/class-admin.php:63
+msgid "Automatically set the user this role when a payment is completed."
+msgstr ""
+
+#: includes/admin/core/class-admin.php:64
+#: includes/admin/core/class-admin.php:91
+#: includes/admin/templates/product/settings.php:2
+msgid "None"
+msgstr ""
+
+#: includes/admin/core/class-admin.php:65
+#: includes/admin/core/class-admin.php:92
+msgid "Community role..."
+msgstr ""
+
+#: includes/admin/core/class-admin.php:71
+msgid "Do not update these roles when payment is completed"
+msgstr ""
+
+#: includes/admin/core/class-admin.php:72
+msgid "Only applicable if you assigned a role when payment is completed."
+msgstr ""
+
+#: includes/admin/core/class-admin.php:74
+msgid "Community role(s).."
+msgstr ""
+
+#: includes/admin/core/class-admin.php:81
+msgid ""
+"Upgrade user role when payment is on-hold before complete or processing "
+"status"
+msgstr ""
+
+#: includes/admin/core/class-admin.php:89
+msgid "Assign this role to users when payment is refunded"
+msgstr ""
+
+#: includes/admin/core/class-admin.php:90
+msgid "Automatically set the user this role when a payment is refunded."
+msgstr ""
+
+#: includes/admin/core/class-admin.php:98
+msgid "Hide billing tab from members in account page"
+msgstr ""
+
+#: includes/admin/core/class-admin.php:99
+msgid ""
+"Enable this option If you do not want to show the billing tab from members "
+"in account page."
+msgstr ""
+
+#: includes/admin/core/class-admin.php:104
+msgid "Hide shipping tab from members in account page"
+msgstr ""
+
+#: includes/admin/core/class-admin.php:105
+msgid ""
+"Enable this option If you do not want to show the shipping tab from members "
+"in account page."
+msgstr ""
+
+#. Author of the plugin/theme
+#: includes/admin/core/class-admin.php:120
+msgid "Ultimate Member"
+msgstr ""
+
+#: includes/admin/core/class-admin.php:164
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/admin/templates/product/settings.php:11
+msgid "When this product is bought move user to this role"
+msgstr ""
+
+#: includes/admin/templates/product/settings.php:25
+msgid "When subscription is ACTIVATED move user to this role"
+msgstr ""
+
+#: includes/admin/templates/product/settings.php:36
+msgid "When subscription is PENDING move user to this role"
+msgstr ""
+
+#: includes/admin/templates/product/settings.php:47
+msgid "When subscription is ON-HOLD move user to this role"
+msgstr ""
+
+#: includes/admin/templates/product/settings.php:58
+msgid "When subscription is EXPIRED move user to this role"
+msgstr ""
+
+#: includes/admin/templates/product/settings.php:69
+msgid "When subscription is CANCELLED move user to this role"
+msgstr ""
+
+#: includes/admin/templates/product/settings.php:80
+msgid "When subscription is PENDING-CANCEL move user to this role"
+msgstr ""
+
+#: includes/admin/templates/role/woocommerce.php:11
+msgid "Display purchases tab in profile?"
+msgstr ""
+
+#: includes/admin/templates/role/woocommerce.php:17
+msgid "Display reviews tab in profile?"
+msgstr ""
+
+#: includes/admin/templates/role/woocommerce.php:23
+msgid "Display billing address under account?"
+msgstr ""
+
+#: includes/admin/templates/role/woocommerce.php:24
+msgid ""
+"Depends on option <em>Hide billing tab from members in account page</em> on "
+"[Ultimate Member > Settings > Extensions > Woocommerce] page."
+msgstr ""
+
+#: includes/admin/templates/role/woocommerce.php:30
+msgid "Display shipping address under account?"
+msgstr ""
+
+#: includes/admin/templates/role/woocommerce.php:31
+msgid ""
+"Depends on option <em>Hide shipping tab from members in account page</em> on "
+"[Ultimate Member > Settings > Extensions > Woocommerce] page."
+msgstr ""
+
+#: includes/admin/templates/role/woocommerce.php:37
+msgid "Display orders under account?"
+msgstr ""
+
+#: includes/admin/templates/role/woocommerce.php:43
+msgid "Display subscriptions under account?"
+msgstr ""
+
+#: includes/admin/templates/role/woocommerce.php:49
+msgid "Display downloads under account?"
+msgstr ""
+
+#: includes/admin/templates/role/woocommerce.php:55
+msgid "Display payment methods under account?"
+msgstr ""
+
+#: includes/core/actions/um-woocommerce-tabs.php:24
+#: templates/my-purchases.php:18
+msgid "You did not purchase any product yet."
+msgstr ""
+
+#: includes/core/actions/um-woocommerce-tabs.php:24
+#: templates/my-purchases.php:18
+msgid "User did not purchase any product yet."
+msgstr ""
+
+#: includes/core/actions/um-woocommerce-tabs.php:56
+#: templates/product-reviews.php:16
+msgid "You did not review any products yet."
+msgstr ""
+
+#: includes/core/actions/um-woocommerce-tabs.php:56
+#: templates/product-reviews.php:16
+msgid "User did not review any product yet."
+msgstr ""
+
+#: includes/core/class-woocommerce-account.php:100
+msgid "Billing Address"
+msgstr ""
+
+#: includes/core/class-woocommerce-account.php:101
+#: includes/core/class-woocommerce-account.php:110
+msgid "Save Address"
+msgstr ""
+
+#: includes/core/class-woocommerce-account.php:109
+msgid "Shipping Address"
+msgstr ""
+
+#: includes/core/class-woocommerce-account.php:118
+msgid "My Orders"
+msgstr ""
+
+#: includes/core/class-woocommerce-account.php:132
+msgid "Memberships"
+msgstr ""
+
+#: includes/core/class-woocommerce-account.php:141
+msgid "Subscriptions"
+msgstr ""
+
+#: includes/core/class-woocommerce-account.php:150
+msgid "Downloads"
+msgstr ""
+
+#: includes/core/class-woocommerce-account.php:159
+msgid "Payment methods"
+msgstr ""
+
+#: includes/core/class-woocommerce-account.php:278
+#, php-format
+msgid "\"%s\" field is required"
+msgstr ""
+
+#: includes/core/class-woocommerce-account.php:415
+#: includes/core/class-woocommerce-account.php:607
+msgid "PDF Invoice"
+msgstr ""
+
+#: includes/core/class-woocommerce-account.php:555
+msgid "No User Memberships found"
+msgstr ""
+
+#: includes/core/class-woocommerce-account.php:648
+msgid "Address changed successfully."
+msgstr ""
+
+#: includes/core/class-woocommerce-account.php:764
+msgid "Your billing address is updated."
+msgstr ""
+
+#: includes/core/class-woocommerce-account.php:768
+msgid "Your shipping address is updated."
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:33
+#: includes/core/class-woocommerce-main-api.php:36
+msgid "WC Billing First name"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:43
+#: includes/core/class-woocommerce-main-api.php:46
+msgid "WC Billing Last name"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:53
+#: includes/core/class-woocommerce-main-api.php:56
+msgid "WC Billing Company"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:63
+#: includes/core/class-woocommerce-main-api.php:66
+msgid "WC Billing Address 1"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:73
+#: includes/core/class-woocommerce-main-api.php:76
+msgid "WC Billing Address 2"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:83
+#: includes/core/class-woocommerce-main-api.php:86
+msgid "WC Billing city"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:93
+#: includes/core/class-woocommerce-main-api.php:96
+msgid "WC Billing postcode"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:103
+#: includes/core/class-woocommerce-main-api.php:106
+#: includes/core/class-woocommerce-member-directory.php:102
+msgid "WC Billing country"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:114
+#: includes/core/class-woocommerce-main-api.php:117
+msgid "WC Billing state"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:124
+#: includes/core/class-woocommerce-main-api.php:127
+msgid "WC Billing phone"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:134
+#: includes/core/class-woocommerce-main-api.php:137
+msgid "WC Billing email"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:146
+#: includes/core/class-woocommerce-main-api.php:149
+msgid "WC Shipping First name"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:156
+#: includes/core/class-woocommerce-main-api.php:159
+msgid "WC Shipping Last name"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:166
+#: includes/core/class-woocommerce-main-api.php:169
+msgid "WC Shipping Company"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:176
+#: includes/core/class-woocommerce-main-api.php:179
+msgid "WC Shipping Address 1"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:186
+#: includes/core/class-woocommerce-main-api.php:189
+msgid "WC Shipping Address 2"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:196
+#: includes/core/class-woocommerce-main-api.php:199
+msgid "WC Shipping city"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:206
+#: includes/core/class-woocommerce-main-api.php:209
+msgid "WC Shipping postcode"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:216
+#: includes/core/class-woocommerce-main-api.php:219
+#: includes/core/class-woocommerce-member-directory.php:103
+msgid "WC Shipping country"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:227
+#: includes/core/class-woocommerce-main-api.php:230
+msgid "WC Shipping state"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:237
+#: includes/core/class-woocommerce-main-api.php:240
+msgid "WC Shipping phone"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:247
+#: includes/core/class-woocommerce-main-api.php:250
+msgid "WC Shipping email"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:375
+msgctxt "admin subscription table header"
+msgid "Last Order Date"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:376
+msgctxt "admin subscription table header"
+msgid "Next Payment Date"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:377
+msgctxt "table heading"
+msgid "End Date"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:378
+msgctxt "admin subscription table header"
+msgid "Trial End Date"
+msgstr ""
+
+#: includes/core/class-woocommerce-main-api.php:400
+msgid "State"
+msgstr ""
+
+#: includes/core/class-woocommerce-member-directory.php:104
+#: includes/core/filters/um-woocommerce-fields.php:25
+#: includes/core/filters/um-woocommerce-fields.php:28
+msgid "Total Orders"
+msgstr ""
+
+#: includes/core/class-woocommerce-member-directory.php:105
+#: includes/core/filters/um-woocommerce-fields.php:14
+#: includes/core/filters/um-woocommerce-fields.php:17
+msgid "Total Spent"
+msgstr ""
+
+#: includes/core/class-woocommerce-member-directory.php:183
+msgid "<strong>Total Orders ("
+msgstr ""
+
+#: includes/core/class-woocommerce-member-directory.php:185
+msgid "<strong>Total Spent ("
+msgstr ""
+
+#: includes/core/filters/um-woocommerce-fields.php:66
+#, php-format
+msgid "%s order"
+msgstr ""
+
+#: includes/core/filters/um-woocommerce-fields.php:68
+#, php-format
+msgid "%s orders"
+msgstr ""
+
+#: includes/core/filters/um-woocommerce-tabs.php:13
+msgid "Purchases"
+msgstr ""
+
+#: includes/core/filters/um-woocommerce-tabs.php:18
+msgid "Product Reviews"
+msgstr ""
+
+#: templates/my-purchases.php:42 templates/product-reviews.php:35
+#, php-format
+msgid "<a href=\"%s\" class=\"um-woo-grid-imgc\">%s</a>"
+msgstr ""
+
+#: templates/my-purchases.php:44 templates/product-reviews.php:37
+#, php-format
+msgid "<img src=\"%s\" alt=\"%s\" class=\"um-woo-grid-imgc\" />"
+msgstr ""
+
+#: templates/my-purchases.php:44 templates/product-reviews.php:37
+msgid "Placeholder"
+msgstr ""
+
+#: templates/my-purchases.php:53
+msgid "Total Sales"
+msgstr ""
+
+#: templates/order-popup.php:22
+#, php-format
+msgid "Order# %s"
+msgstr ""
+
+#: templates/order-popup.php:31
+#, php-format
+msgid ""
+"Order #<mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: templates/order-popup.php:35
+msgid "Order Updates"
+msgstr ""
+
+#: templates/order-popup.php:41
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: templates/orders.php:30 templates/orders.php:51
+msgid "Date"
+msgstr ""
+
+#: templates/orders.php:31 templates/orders.php:54
+#: templates/subscription.php:24
+msgid "Status"
+msgstr ""
+
+#: templates/orders.php:32 templates/orders.php:57
+msgid "Total"
+msgstr ""
+
+#: templates/orders.php:59
+msgid "View order"
+msgstr ""
+
+#: templates/orders.php:74
+msgid "Jump to page:"
+msgstr ""
+
+#: templates/orders.php:80
+#, php-format
+msgid "%s of %d"
+msgstr ""
+
+#: templates/orders.php:90
+msgid "First Page"
+msgstr ""
+
+#: templates/orders.php:98
+msgid "Previous"
+msgstr ""
+
+#: templates/orders.php:118
+msgid "Next"
+msgstr ""
+
+#: templates/orders.php:126
+msgid "Last Page"
+msgstr ""
+
+#: templates/orders.php:136
+msgid "You don't have orders yet"
+msgstr ""
+
+#: templates/subscription.php:16
+msgid "All subscriptions"
+msgstr ""
+
+#: templates/subscription.php:20
+msgid "Subscription"
+msgstr ""
+
+#: templates/subscription.php:28
+msgctxt "table heading"
+msgid "Start Date"
+msgstr ""
+
+#: templates/subscription.php:51
+msgid "Actions"
+msgstr ""
+
+#: templates/subscription.php:68
+msgid "Subscription Updates"
+msgstr ""
+
+#: templates/subscription.php:75
+msgctxt "date on subscription updates list. Will be localized"
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: um-woocommerce.php:46 um-woocommerce.php:62
+#, php-format
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr ""
+
+#: um-woocommerce.php:70
+#, php-format
+msgid "WooCommerce must be activated before you can use %s."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Member - WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://ultimatemember.com/extensions/woocommerce"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Integrates your WooCommerce store with Ultimate Member."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://ultimatemember.com/"
+msgstr ""

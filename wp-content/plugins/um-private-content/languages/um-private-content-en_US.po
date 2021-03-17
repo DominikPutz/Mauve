@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - Private Content\n"
+"POT-Creation-Date: 2019-07-16 16:28+0300\n"
+"PO-Revision-Date: 2019-07-16 16:28+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: um-private-content.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/core/class-private-content-admin.php:38
+#, php-format
+msgid "Private Content for %s"
+msgstr ""
+
+#: includes/core/class-private-content-admin.php:53
+#: includes/core/class-private-content-setup.php:27
+#: includes/core/class-private-content-setup.php:55
+#: includes/core/filters/um-private-content-settings.php:21
+#: includes/core/filters/um-private-content-tabs.php:13
+#: includes/core/um-private-content-init.php:136
+msgid "Private Content"
+msgstr ""
+
+#: includes/core/class-private-content-admin.php:168
+msgid "Private Content pages was generated successfully"
+msgstr ""
+
+#: includes/core/class-private-content-setup.php:54
+#: includes/core/um-private-content-init.php:135
+msgid "Private Contents"
+msgstr ""
+
+#: includes/core/class-private-content-setup.php:56
+#: includes/core/class-private-content-setup.php:57
+#: includes/core/um-private-content-init.php:137
+#: includes/core/um-private-content-init.php:138
+msgid "Add New Private Content"
+msgstr ""
+
+#: includes/core/class-private-content-setup.php:58
+#: includes/core/um-private-content-init.php:139
+msgid "Edit Private Content"
+msgstr ""
+
+#: includes/core/class-private-content-setup.php:59
+#: includes/core/um-private-content-init.php:140
+msgid "You did not create any private contents yet"
+msgstr ""
+
+#: includes/core/class-private-content-setup.php:60
+#: includes/core/um-private-content-init.php:141
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: includes/core/class-private-content-setup.php:61
+#: includes/core/um-private-content-init.php:142
+msgid "Search Private Contents"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:13
+msgid "Private Content License Key"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:26
+msgid "Generate pages"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:27
+msgid "Generate pages for existing users"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:28
+msgid "Generate pages for already existing users"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:34
+msgid "Private Content Tab Title"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:35
+msgid "This is the title of the tab for show user's private content"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:40
+msgid "Private Content Tab Icon"
+msgstr ""
+
+#: includes/core/filters/um-private-content-settings.php:41
+msgid "This is the icon of the tab for show user's private content"
+msgstr ""
+
+#: um-private-content.php:41 um-private-content.php:57
+#, php-format
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Member - Private Content"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://ultimatemember.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Display private content to logged in users that only they can access."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ultimate Member"
+msgstr ""

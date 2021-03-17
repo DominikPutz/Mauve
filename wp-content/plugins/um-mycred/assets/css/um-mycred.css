@@ -1,0 +1,189 @@
+/* Account tab */
+
+.um-mycred-account-col {
+	font-size: 16px;
+}
+
+.um-mycred-account-col strong {
+	color: #555 !important;
+	font-size: 15px;
+}
+
+.um-mycred-light {
+	font-weight: normal;
+	font-size: 13px;
+	color: #999;
+}
+
+.um-mycred-account-col p {
+	margin: 0 !important;
+	padding: 8px 0 !important;
+	font-size: 14px;
+}
+
+input[type=submit].um-mycred-send-points.um-button {
+	display: inline !important;
+	padding: 9px !important;
+	width: auto !important;
+}
+
+input[type=text].um-mycred-amount {
+	width: 60px !important;
+	display: inline !important;
+	height: 36px !important;
+	margin-right: 10px !important;
+}
+
+/* Badges in profile tab */
+
+.um-profile-body.badges {
+	text-align: center;
+	max-width: 100% !important;
+}
+
+.um-profile-body .the-badge {
+	display: inline-block;
+	text-align: center;
+	margin: 15px;
+}
+
+.um-profile-body .the-badge img {
+	display: inline-block;
+}
+
+.um-profile-body .the-badge h3 {
+	margin: 0;
+	padding: 0 0 15px 0;
+	color: #333;
+	font-weight: normal;
+	font-size: 15px;
+}
+
+/* Badges in profile header and Member directory */
+
+.um-header span.um-badges,
+.um-member span.um-badges {
+	display: block;
+	height: 36px;
+	padding: 4px 0 6px 0;
+}
+
+.um-header .the-badge,
+.um-member .the-badge {
+	display: inline-block !important;
+	line-height:  36px;
+	margin: 0px 5px;
+}
+
+.um-header .the-badge img,
+.um-member .the-badge img {
+	height: 36px;
+	width: 36px;
+}
+
+.um-header .um-mycred-progress {
+	display: inline-block;
+	width: 100px;
+	height: 10px;
+}
+
+/* Badges in profile view */
+
+.um-field-value .the-badge {
+	margin-left: 0;
+	display: inline-block;
+}
+
+.um-field-value .the-badge img {
+	width: 60px;
+	height: 60px;
+}
+
+/* displaying mycred progress */
+
+.um-mycred-progress {
+	margin-top: 20px;
+	display: block;
+	background: #eee;
+	height: 12px;
+	max-width: 300px;
+	width: 100%;
+}
+
+.um-mycred-progress span {
+	display: block;
+	float: left;
+	height: 100%;
+	background: #7ACF58;
+}
+
+/* show mycred progress in bb */
+
+span.bbp-author-ip {
+	display: none !important;
+}
+
+.um-mycred-bb-rank {
+	font-weight: bold;
+	margin: 0 0 6px 0;
+}
+
+.um-mycred-bb-progress .um-mycred-progress {
+	margin-top: 1px;
+	display: inline-block;
+	width: 80px;
+	height: 8px;
+}
+
+.um-mycred-locked-badge{
+	 opacity: 0.3;
+    filter: alpha(opacity=30); /* For IE8 and earlier */
+}
+
+.tipsy-inner {
+    white-space: pre-wrap;
+    text-align: center;
+}
+
+.um-member-tagline .um-badges {
+	margin: auto;
+	float:left;
+}
+
+.um-member-tagline .um-badges span.the-badge {
+	float: left;
+	padding: 2px; 
+	width: 23.10%;
+	height: auto;
+	text-align: center;
+}
+
+.um-member-tagline .um-badges {
+	margin-top: 20px;
+	display: block;
+	max-width: none;
+	width: 100%;
+}
+
+.um-member-tagline .um-mycred-progress {
+	width: auto;
+	max-width: none;
+}
+
+.um-directory .um-members-wrapper .um-members.um-members-list .um-member .um-member-card-container .um-member-card .um-member-card-content .um-member-tagline .um-mycred-progress {
+	width: 100%;
+}
+
+.um-directory .um-members-wrapper .um-members.um-members-list .um-member .um-member-card-container .um-member-card .um-member-card-content .um-member-tagline .um-badges {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: baseline;
+	flex-wrap: wrap;
+	margin-top: 0;
+}
+
+.um-directory .um-members-wrapper .um-members.um-members-list .um-member .um-member-card-container .um-member-card .um-member-card-content .um-member-tagline .um-badges .the-badge {
+	display: flex !important;
+	float: none;
+}

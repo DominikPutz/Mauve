@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - Notices\n"
+"POT-Creation-Date: 2019-11-10 21:10+0200\n"
+"PO-Revision-Date: 2019-11-10 21:10+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: um-notices.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/templates/cta.php:12
+msgid "Enable Call to Action button"
+msgstr ""
+
+#: includes/admin/templates/cta.php:18
+msgid "Button Text"
+msgstr ""
+
+#: includes/admin/templates/cta.php:25
+msgid "Button URL"
+msgstr ""
+
+#: includes/admin/templates/cta.php:33
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/admin/templates/cta.php:40
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/admin/templates/notice.php:5
+#: includes/core/class-notices-admin.php:82
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/templates/notice.php:18
+#: includes/core/class-notices-admin.php:83
+msgid "Reach"
+msgstr ""
+
+#: includes/admin/templates/notice.php:23
+msgid "Flush"
+msgstr ""
+
+#: includes/admin/templates/notice.php:24
+msgid ""
+"Flushing a notice makes it appear as a new notice to users even those who "
+"have seen it already."
+msgstr ""
+
+#: includes/admin/templates/notice.php:25
+msgid "Flush this notice"
+msgstr ""
+
+#: includes/admin/templates/options.php:16
+msgid "Allow this notice to appear in footer"
+msgstr ""
+
+#: includes/admin/templates/options.php:17
+msgid "If turned off, this notice can only appear using shortcode method"
+msgstr ""
+
+#: includes/admin/templates/options.php:23
+msgid "Display this notice to logged out users"
+msgstr ""
+
+#: includes/admin/templates/options.php:29
+msgid "Display this notice to logged in users"
+msgstr ""
+
+#: includes/admin/templates/options.php:35
+msgid "Which user roles can see this notice"
+msgstr ""
+
+#: includes/admin/templates/options.php:36
+msgid "Leave blank to show to all user roles"
+msgstr ""
+
+#: includes/admin/templates/options.php:46
+msgid "Show If the user did not"
+msgstr ""
+
+#: includes/admin/templates/options.php:47
+msgid ""
+"You have to fill field \"Show If the user did not fill that metakey\" if "
+"this option is set to \"Other\"."
+msgstr ""
+
+#: includes/admin/templates/options.php:52
+msgid "Upload profile photo"
+msgstr ""
+
+#: includes/admin/templates/options.php:53
+msgid "Upload cover photo"
+msgstr ""
+
+#: includes/admin/templates/options.php:54
+msgid "Other"
+msgstr ""
+
+#: includes/admin/templates/options.php:61
+msgid "Show If the user did not fill that metakey"
+msgstr ""
+
+#: includes/admin/templates/options.php:68
+msgid "Show only to certain user(s)"
+msgstr ""
+
+#: includes/admin/templates/options.php:69
+msgid "A comma seperated list of user IDs or usernames to show this notice for"
+msgstr ""
+
+#: includes/admin/templates/options.php:78
+msgid "Show to shop users"
+msgstr ""
+
+#: includes/admin/templates/options.php:82
+msgid "All"
+msgstr ""
+
+#: includes/admin/templates/options.php:83
+msgid "Users who did not purchase anything"
+msgstr ""
+
+#: includes/admin/templates/options.php:84
+msgid "Users who made purchases"
+msgstr ""
+
+#: includes/admin/templates/options.php:91
+msgid "Spent at least (on purchases)"
+msgstr ""
+
+#: includes/admin/templates/rules.php:11
+msgid "Show on specific URLs only"
+msgstr ""
+
+#: includes/admin/templates/rules.php:17
+msgid "Enter allowed URLs one per line"
+msgstr ""
+
+#: includes/admin/templates/rules.php:24
+msgid "Show on Homepage"
+msgstr ""
+
+#: includes/admin/templates/rules.php:31
+msgid "Show on Posts"
+msgstr ""
+
+#: includes/admin/templates/rules.php:38
+msgid "Show on Pages"
+msgstr ""
+
+#: includes/admin/templates/rules.php:45
+msgid "Show on Custom Post Types"
+msgstr ""
+
+#: includes/admin/templates/styling.php:5
+msgid "If you do not provide custom styling here, defaults will be used."
+msgstr ""
+
+#: includes/admin/templates/styling.php:15
+msgid "Notice Minimum Width"
+msgstr ""
+
+#: includes/admin/templates/styling.php:16
+msgid "Set a minimum width for notice wrapper"
+msgstr ""
+
+#: includes/admin/templates/styling.php:22
+msgid "Notice background color"
+msgstr ""
+
+#: includes/admin/templates/styling.php:28
+msgid "Notice text color"
+msgstr ""
+
+#: includes/admin/templates/styling.php:35
+msgid "Notice font size"
+msgstr ""
+
+#: includes/admin/templates/styling.php:41
+msgid "Notice Icon"
+msgstr ""
+
+#: includes/admin/templates/styling.php:42
+msgid "You can optionally add an icon to this notice"
+msgstr ""
+
+#: includes/admin/templates/styling.php:48
+msgid "Notice Icon color"
+msgstr ""
+
+#: includes/admin/templates/styling.php:54
+msgid "Notice Close Icon color"
+msgstr ""
+
+#: includes/admin/templates/styling.php:61
+msgid "Border"
+msgstr ""
+
+#: includes/admin/templates/styling.php:62
+msgid "Enter border css here"
+msgstr ""
+
+#: includes/admin/templates/styling.php:69
+msgid "Border Radius"
+msgstr ""
+
+#: includes/admin/templates/styling.php:70
+msgid "Enter border radius here. e.g. 3px"
+msgstr ""
+
+#: includes/admin/templates/styling.php:77
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/admin/templates/styling.php:78
+msgid "Change this If you want to apply a box-shadow to the notice box"
+msgstr ""
+
+#: includes/core/class-notices-admin.php:59
+msgid "Enter notice title here"
+msgstr ""
+
+#: includes/core/class-notices-admin.php:70
+#: includes/core/filters/um-notices-settings.php:24
+#: includes/core/um-notices-init.php:215
+msgid "Notices"
+msgstr ""
+
+#: includes/core/class-notices-admin.php:83
+msgid ""
+"How many people reached this notice? Count users who seen and closed the "
+"notice only"
+msgstr ""
+
+#: includes/core/class-notices-metabox.php:40
+msgid "Options"
+msgstr ""
+
+#: includes/core/class-notices-metabox.php:41
+msgid "Footer Rules"
+msgstr ""
+
+#: includes/core/class-notices-metabox.php:42
+msgid "Styling"
+msgstr ""
+
+#: includes/core/class-notices-metabox.php:43
+msgid "CTA (Call to Action)"
+msgstr ""
+
+#: includes/core/class-notices-metabox.php:45
+msgid "This Notice"
+msgstr ""
+
+#: includes/core/filters/um-notices-settings.php:15
+msgid "Notices License Key"
+msgstr ""
+
+#: includes/core/filters/um-notices-settings.php:29
+msgid "Notice Position in Footer"
+msgstr ""
+
+#: includes/core/filters/um-notices-settings.php:31
+msgid "Show to Right"
+msgstr ""
+
+#: includes/core/filters/um-notices-settings.php:32
+msgid "Show to Left"
+msgstr ""
+
+#: includes/core/filters/um-notices-settings.php:34
+msgid "Select..."
+msgstr ""
+
+#: includes/core/um-notices-init.php:216
+msgid "Notice"
+msgstr ""
+
+#: includes/core/um-notices-init.php:217 includes/core/um-notices-init.php:218
+msgid "Add New Notice"
+msgstr ""
+
+#: includes/core/um-notices-init.php:219
+msgid "Edit Notice"
+msgstr ""
+
+#: includes/core/um-notices-init.php:220
+msgid "You did not create any notices yet"
+msgstr ""
+
+#: includes/core/um-notices-init.php:221
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: includes/core/um-notices-init.php:222
+msgid "Search Notices"
+msgstr ""
+
+#: um-notices.php:43 um-notices.php:59
+#, php-format
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Member - Notices"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://ultimatemember.com/extensions/notices"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Show notices to your users when they visit your WordPress site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ultimate Member"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://ultimatemember.com/"
+msgstr ""
